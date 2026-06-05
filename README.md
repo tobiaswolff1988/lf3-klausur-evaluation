@@ -24,7 +24,7 @@ Bitte bearbeite die Aufgaben der Klassenarbeit sequenziell. Um das anschließend
 * *Nutzen der Repräsentationsebenen:* Beobachte, inwiefern der virtuelle Referenz-Leitstand das funktional-systemische Verständnis unterstützt und wie der in Aufgabe 3.3 automatisch generierte Signalflussplan als kognitive Eigenkontrolle wirkt.
 * *Inbetriebnahme und Fehlerdiagnose:* Analysiere das didaktische Potenzial des dedizierten Fehler-Leitstands in Aufgabe 4.1. Achte darauf, wie die softwaretechnische Umsetzung des Fehlverhaltens die diagnostischen Fähigkeiten der Prüflinge fordert.
 * *Praxistauglichkeit und Usability:* Beurteile während der Eingaben, ob die Bedienung der Dropdown-Menüs, Textfelder und Sortierkacheln für Auszubildende ohne informatische Vorkenntnisse intuitiv verständlich und übersichtlich gelöst ist.
-* *Korrekturmodell:* Wenn du am Ende auf den roten Button "Klausur final abgeben" klickst, simuliert das System den Abschluss. Beurteile das eingeblendete Bewertungspanel hinsichtlich der ökonomischen Entlastung für Lehrkräfte (Kombination aus automatischer und manueller Bewertung).
+* *Korrekturmodell:* Wenn du am Ende auf den roten Button "Klausur final abgeben" klickst, simuliert das System den Abschluss. Beurteile das eingeblendete Bewertungspanel hinsichtlich der ökonomischen Entlastung für Lehrkräfte (vom Notebook nicht beurteilte Teilaufgaben müssen manuell bewertet werden).
 
 ### 3. Evaluationsbogen ausfüllen (ca. 10 Minuten)
 Bitte öffne nach dem vollständigen Durchspielen der Klausur den folgenden Link und fülle das anonyme Feedback-Formular aus. Deine datengestützte Bewertung bildet das Fundament für die wissenschaftliche Auswertung der Masterarbeit:
