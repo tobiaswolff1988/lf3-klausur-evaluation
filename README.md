@@ -6,7 +6,7 @@ Das entwickelte digitale Prüfungsmedium operationalisiert das **Modell der voll
 
 ---
 
-## 🚀 Durchführung der Evaluation
+##  Durchführung der Evaluation
 
 Um an der Expertenevaluation teilzunehmen, folge bitte diesen drei Schritten:
 
@@ -23,7 +23,7 @@ Bitte spiele die Aufgaben sequenziell durch. Achte besonders auf das didaktische
 ### 3. Evaluationsbogen ausfüllen (ca. 10 Minuten)
 Bitte öffne nach dem vollständigen Durchspielen der Klausur den folgenden Link und fülle das anonyme Feedback-Formular aus:
 
-👉 **[Link zum Google Forms Evaluationsbogen](https://docs.google.com/forms/d/e/1FAIpQLScqmFrjQLkEVh7wQ-f67Vj3_EsGvDMR2bCKLa04bJ1c4DA05A/viewform?usp=dialog)**
+**[Link zum Google Forms Evaluationsbogen](https://docs.google.com/forms/d/e/1FAIpQLScqmFrjQLkEVh7wQ-f67Vj3_EsGvDMR2bCKLa04bJ1c4DA05A/viewform?usp=dialog)**
 
 ---
 
