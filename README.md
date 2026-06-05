@@ -13,7 +13,7 @@ Um an der fachdidaktischen Evaluation teilzunehmen, folge bitte diesen drei Schr
 ### 1. Klausurszenario durchspielen (ca. 15–20 Minuten)
 Klicke auf den folgenden Binder-Button, um die interaktive Prüfungsumgebung direkt in deinem Browser zu starten:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tobiaswolff1988/lf3-klausur-evaluation/main?urlpath=voila/render/LF3_Klausur_final_v6_geschlossen.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tobiaswolff1988/lf3-klausur-evaluation/main?urlpath=voila/render/LF3_Klausur_final_v7.ipynb)
 
 > **Hinweis zum Start:** Der MyBinder-Server baut im Hintergrund eine isolierte Docker-Umgebung auf. Dies kann beim ersten Aufruf (Cold Start) ein bis zwei Minuten dauern. Die Umgebung startet vollautomatisch im Voilà-Modus, wodurch der zugrundeliegende Python-Quellcode aus Gründen der Prüfungsintegrität ausgeblendet wird. Dir präsentiert sich direkt das reine, interaktive Prüfungsinterface.
 
@@ -24,7 +24,7 @@ Bitte bearbeite die Aufgaben der Klassenarbeit sequenziell. Um das anschließend
 * *Nutzen der Repräsentationsebenen:* Beobachte, inwiefern der virtuelle Referenz-Leitstand das funktional-systemische Verständnis unterstützt und wie der in Aufgabe 3.3 automatisch generierte Signalflussplan als kognitive Eigenkontrolle wirkt.
 * *Inbetriebnahme und Fehlerdiagnose:* Analysiere das didaktische Potenzial des dedizierten Fehler-Leitstands in Aufgabe 4.1. Achte darauf, wie die softwaretechnische Umsetzung des Fehlverhaltens die diagnostischen Fähigkeiten der Prüflinge fordert.
 * *Praxistauglichkeit und Usability:* Beurteile während der Eingaben, ob die Bedienung der Dropdown-Menüs, Textfelder und Sortierkacheln für Auszubildende ohne informatische Vorkenntnisse intuitiv verständlich und übersichtlich gelöst ist.
-* *Korrekturmodell:* Wenn du am Ende auf den roten Button "Klausur final abgeben" klickst, simuliert das System den Abschluss. Beurteile das eingeblendete Bewertungspanel hinsichtlich der ökonomischen Entlastung für Lehrkräfte (vom Notebook nicht beurteilte Teilaufgaben müssen manuell bewertet werden).
+* *Korrekturmodell:* Wenn du am Ende auf den roten Button "Klausur final abgeben" klickst, simuliert das System den Abschluss. Beurteile das eingeblendete Bewertungspanel hinsichtlich der ökonomischen Entlastung für Lehrkräfte. Eine komplette Auswertung wird im normalen Betrieb als JSON-Datei ausgegeben, ist hier bei myBinder aber nicht möglich.
 
 ### 3. Evaluationsbogen ausfüllen (ca. 10 Minuten)
 Bitte öffne nach dem vollständigen Durchspielen der Klausur den folgenden Link und fülle das anonyme Feedback-Formular aus. Deine datengestützte Bewertung bildet das Fundament für die wissenschaftliche Auswertung der Masterarbeit:
