@@ -6,7 +6,7 @@ Das entwickelte digitale Prüfungsmedium ist für das *Lernfeld 3 (Steuerungen a
 
 ---
 
-## 🚀 Durchführung der Expertenevaluation
+## Durchführung der Expertenevaluation
 
 Um an der fachdidaktischen Evaluation teilzunehmen, folge bitte diesen drei Schritten:
 
