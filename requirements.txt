@@ -1,7 +1,10 @@
+--no-binary=lcapy
+setuptools>=65.0.0
+wheel
 ipywidgets>=8.0.0
 anywidget>=0.9.0
 lcapy>=1.7
 schemdraw>=0.15
-matplotlib>=3.5.0
-numpy>=1.21.0
-viola
+matplotlib>=3.10.0
+numpy>=2.0.0
+voila
