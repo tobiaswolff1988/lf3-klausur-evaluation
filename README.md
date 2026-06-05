@@ -8,7 +8,7 @@ Das entwickelte digitale Prüfungsmedium ist für das Lernfeld 3 (Steuerungen an
 
 ## Durchführung der Expertenevaluation
 
-Um an der fachdidaktischen Evaluation teilzunehmen, folge bitte diesen drei Schritten:
+Um an der fachdidaktischen Evaluation teilzunehmen, folge bitte diesen Hinweisen:
 
 ### Klausurszenario durchspielen (ca. 15–20 Minuten)
 
