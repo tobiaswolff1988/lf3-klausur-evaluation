@@ -20,7 +20,7 @@ Klicke auf den folgenden Binder-Button, um die interaktive Prüfungsumgebung dir
 ### 2. Evaluationsbogen ausfüllen (ca. 10 Minuten)
 Bitte öffne nach dem vollständigen Durchspielen der Klausur den folgenden Link und fülle das anonyme Feedback-Formular aus. Deine datengestützte Bewertung bildet das Fundament für die wissenschaftliche Auswertung der Masterarbeit:
 
- **[Hier klicken: Zum Google Forms Evaluationsbogen](https://mybinder.org/v2/gh/tobiaswolff1988/lf3-klausur-evaluation/main?urlpath=voila/render/LF3_Klausur_final_v6_geschlossen.ipynb)**
+ **[Hier klicken: Zum Google Forms Evaluationsbogen](https://docs.google.com/forms/d/e/1FAIpQLScqmFrjQLkEVh7wQ-f67Vj3_EsGvDMR2bCKLa04bJ1c4DA05A/viewform?usp=dialog)**
 
 ---
 
